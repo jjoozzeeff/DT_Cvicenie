@@ -10,3 +10,6 @@ HAVING SUM(o.sales) > 2000;
 
 SELECT *
 FROM high_value_customers;
+
+CREATE VIEW regional_monthly_sales AS
+SELECT
