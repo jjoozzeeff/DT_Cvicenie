@@ -1,4 +1,4 @@
--- Active: 1790162491402@@127.0.0.1@5432@superstore
+-- Active: 1791738834113@@127.0.0.1@5432@superstore
 
 CREATE DATABASE Cvicenie1;
 
@@ -49,6 +49,7 @@ CREATE TABLE orders(
     discount NUMERIC(18,2),
     profit NUMERIC(18,2)
 );
+
 
 SELECT * FROM customers;
 SELECT * FROM products;
