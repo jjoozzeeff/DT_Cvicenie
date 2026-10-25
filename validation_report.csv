@@ -1,0 +1,12 @@
+Pravidlo,Pocet_chybnych_riadkov
+Neplatne_OrderID,0
+Duplicitne_OrderID,22
+Neplatny_Region,42
+Chybajuci_Product,0
+Neplatne_Quantity,29
+Neplatne_SalesAmount,38
+Neplatny_Discount,29
+Neplatny_OrderDate,120
+Neplatny_DeliveryDate,10
+Nespravne_poradie_datumov,54
+Neplatne_PhoneNumber,34
